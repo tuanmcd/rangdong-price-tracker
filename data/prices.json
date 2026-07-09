@@ -1,0 +1,1669 @@
+{
+  "meta": {
+    "lastUpdated": "2026-07-09",
+    "currency": "VND",
+    "note": "Giá ngày 2026-07-09 thu thập thật từ web công khai. Lịch sử trước đó là mô phỏng minh hoạ (simulated: true), sẽ được thay bằng dữ liệu thật khi cập nhật hằng ngày."
+  },
+  "products": [
+    {
+      "id": "rd-pha-100",
+      "brand": "Rạng Đông",
+      "name": "Đèn pha NLMT 100W (CP01)",
+      "watt": 100,
+      "url": "https://rangdong.com.vn/gia-den-nang-luong-mat-troi-n991.html",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 1620000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 1610000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1620000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1610000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1610000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 1610000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1620000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1650000,
+          "source": "rangdong.com.vn / ledchinhhang.com"
+        }
+      ]
+    },
+    {
+      "id": "rd-pha-200",
+      "brand": "Rạng Đông",
+      "name": "Đèn pha NLMT 200W",
+      "watt": 200,
+      "url": "https://dmtsolar.com/thuong-hieu/rang-dong",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1860000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1840000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1840000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1840000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1860000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1860000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1860000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1900000,
+          "source": "rangdong.com.vn / dmtsolar.com"
+        }
+      ]
+    },
+    {
+      "id": "jd-8800l-100",
+      "brand": "Jindian",
+      "name": "JD-8800L 100W",
+      "watt": 100,
+      "url": "https://dmtsolar.com/thuong-hieu/jindian",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1630000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 1660000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1650000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1660000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1640000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1620000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1600000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1600000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1610000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1600000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1590000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1600000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1580000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1590000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1590000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1580000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1570000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1590000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1570000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1580000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1570000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1560000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1560000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1540000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1550000,
+          "source": "hainamsolar.net / dmtsolar.com"
+        }
+      ]
+    },
+    {
+      "id": "jd-8200l-200",
+      "brand": "Jindian",
+      "name": "JD-8200L 200W",
+      "watt": 200,
+      "url": "https://dmtsolar.com/thuong-hieu/jindian",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1920000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1860000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1860000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1890000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1840000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1860000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1900000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1880000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1870000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1850000,
+          "source": "hainamsolar.net / dmtsolar.com"
+        }
+      ]
+    },
+    {
+      "id": "st-pha-100",
+      "brand": "Suntek",
+      "name": "Đèn pha Suntek 100W",
+      "watt": 100,
+      "url": "https://suntek.com.vn/den-pha-nang-luong-mat-troi-suntek-pha-200w-dp656.html",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 950000,
+          "source": "ước tính (hãng không niêm yết)"
+        }
+      ]
+    },
+    {
+      "id": "st-pha-200",
+      "brand": "Suntek",
+      "name": "Đèn pha Suntek 200W",
+      "watt": 200,
+      "url": "https://suntek.com.vn/suntek-rp-200w-dp693.html",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 1330000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 1340000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1350000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1360000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1360000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 1370000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1380000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1380000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1380000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1370000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1380000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1390000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1370000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1360000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1360000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1350000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1340000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1340000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1350000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1330000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1350000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1340000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1340000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1330000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1320000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1340000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1350000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1330000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1330000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1340000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1350000,
+          "source": "ước tính (hãng không niêm yết)"
+        }
+      ]
+    },
+    {
+      "id": "mw-pha-100",
+      "brand": "Mayor Wolf",
+      "name": "Đèn pha Mayor Wolf 100W",
+      "watt": 100,
+      "url": "https://www.sendo.vn/den-pha-nang-luong-mat-troi-100w-mayor-wolf-chinh-hang-23040942.html/",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 760000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 770000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 810000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 800000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 780000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 790000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 810000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 830000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 840000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 850000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 850000,
+          "source": "sendo.vn"
+        }
+      ]
+    },
+    {
+      "id": "mw-pha-200",
+      "brand": "Mayor Wolf",
+      "name": "Đèn pha Mayor Wolf 200W",
+      "watt": 200,
+      "url": "https://phuonglamaudio.com/san-pham/den-pha-nang-luong-mat-troi-200w-mayor-wolf/",
+      "estimated": true,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 1430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 1420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1460000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 1440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1400000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1390000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1400000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1390000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1380000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1380000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1390000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1410000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1400000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1430000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1420000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1440000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1450000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1450000,
+          "source": "ước tính (phuonglamaudio.com)"
+        }
+      ]
+    },
+    {
+      "id": "sl-x100",
+      "brand": "Solar Light",
+      "name": "Xenon X100W viền cam",
+      "watt": 100,
+      "url": "https://solarlight.com.vn/gia-den-nang-luong-mat-troi-100w-moi-nhat.html",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 920000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 920000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 920000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 920000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 920000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 930000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 940000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 970000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 950000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 960000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 970000,
+          "source": "solarlight.com.vn"
+        }
+      ]
+    },
+    {
+      "id": "sl-200",
+      "brand": "Solar Light",
+      "name": "Solar Light 200W",
+      "watt": 200,
+      "url": "https://gelta.vn/gia-den-nang-luong-mat-troi-solar-light-200w-moi-nhat-2026/",
+      "estimated": false,
+      "addedDate": "2026-06-09",
+      "priceHistory": [
+        {
+          "date": "2026-06-09",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-10",
+          "price": 1520000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-11",
+          "price": 1530000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-12",
+          "price": 1520000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-13",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-14",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-15",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-16",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-17",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-18",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-19",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-20",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-21",
+          "price": 1480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-22",
+          "price": 1480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-23",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-24",
+          "price": 1470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-25",
+          "price": 1470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-26",
+          "price": 1470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-27",
+          "price": 1480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-28",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-29",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-06-30",
+          "price": 1480000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-01",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-02",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-03",
+          "price": 1470000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-04",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-05",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-06",
+          "price": 1500000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-07",
+          "price": 1490000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-08",
+          "price": 1510000,
+          "simulated": true
+        },
+        {
+          "date": "2026-07-09",
+          "price": 1500000,
+          "source": "gelta.vn (khoảng 0,9–2 triệu)"
+        }
+      ]
+    }
+  ]
+}
