@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-10",
+    "lastUpdated": "2026-09-28",
     "currency": "VND",
-    "note": "Giá ngày 2026-07-09, 2026-07-10 thu thập thật từ web công khai. Lịch sử trước đó là mô phỏng minh hoạ (simulated: true), sẽ được thay bằng dữ liệu thật khi cập nhật hằng ngày."
+    "note": "Giá ngày 2026-07-09, 2026-07-10, 2026-09-16, 2026-09-28 thu thập thật từ web công khai (gián đoạn cập nhật từ 2026-07-11 đến 2026-09-15 và 2026-09-17 đến 2026-09-27). Lịch sử trước đó là mô phỏng minh hoạ (simulated: true), sẽ được thay bằng dữ liệu thật khi cập nhật hằng ngày."
   },
   "products": [
     {
@@ -168,6 +168,16 @@
           "date": "2026-07-09",
           "price": 1650000,
           "source": "rangdong.com.vn / ledchinhhang.com"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1339000,
+          "source": "rangdong.com.vn"
+        },
+        {
+          "date": "2026-09-28",
+          "price": 1339000,
+          "source": "rangdong.com.vn (không đổi, model CP03.SL.RAD 100W.V2)"
         }
       ]
     },
@@ -339,6 +349,16 @@
           "date": "2026-07-10",
           "price": 1650000,
           "source": "rangdong.com.vn (giá khuyến mãi CP03.SL.RAD-200W-V2, niêm yết 1.854.000)"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1650000,
+          "source": "rangdong.com.vn (không đổi)"
+        },
+        {
+          "date": "2026-09-28",
+          "price": 1650000,
+          "source": "dmtsolar.com (không đổi)"
         }
       ]
     },
@@ -510,6 +530,16 @@
           "date": "2026-07-10",
           "price": 1210000,
           "source": "dmtsolar.com (giá khuyến mại, niêm yết 1.660.000)"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1210000,
+          "source": "dmtsolar.com (không đổi)"
+        },
+        {
+          "date": "2026-09-28",
+          "price": 1210000,
+          "source": "dmtsolar.com (không đổi)"
         }
       ]
     },
@@ -681,6 +711,16 @@
           "date": "2026-07-10",
           "price": 1380000,
           "source": "dmtsolar.com (giá khuyến mại, niêm yết 1.830.000)"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1380000,
+          "source": "dmtsolar.com (không đổi)"
+        },
+        {
+          "date": "2026-09-28",
+          "price": 1380000,
+          "source": "dmtsolar.com (không đổi)"
         }
       ]
     },
@@ -847,6 +887,16 @@
           "date": "2026-07-09",
           "price": 950000,
           "source": "ước tính (hãng không niêm yết)"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1550000,
+          "source": "suntek.com.vn (giá niêm yết thật lần đầu ghi nhận, giảm từ 1.990.000; chênh lệch +63% so với điểm ước tính trước, đã đối chiếu khoảng giá thị trường 1.08-3.2tr từ tìm kiếm thứ hai)"
+        },
+        {
+          "date": "2026-09-28",
+          "price": 1550000,
+          "source": "suntek.com.vn (không đổi)"
         }
       ]
     },
@@ -1184,6 +1234,16 @@
           "date": "2026-07-10",
           "price": 850000,
           "source": "sendo.vn (không đổi)"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 850000,
+          "source": "sendo.vn (không đổi, qua tìm kiếm - fetch trực tiếp bị từ chối kết nối)"
+        },
+        {
+          "date": "2026-09-28",
+          "price": 850000,
+          "source": "sendo.vn (không đổi, qua tìm kiếm)"
         }
       ]
     },
@@ -1355,6 +1415,16 @@
           "date": "2026-07-10",
           "price": 1650000,
           "source": "ước tính (phuonglamaudio.com, model CX-BA 200W)"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1650000,
+          "source": "phuonglamaudio.com (không đổi, model CX-BA 200W)"
+        },
+        {
+          "date": "2026-09-28",
+          "price": 1650000,
+          "source": "phuonglamaudio.com (không đổi)"
         }
       ]
     },
@@ -1524,6 +1594,16 @@
         },
         {
           "date": "2026-07-10",
+          "price": 970000,
+          "source": "solarlight.com.vn (không đổi)"
+        },
+        {
+          "date": "2026-09-16",
+          "price": 970000,
+          "source": "solarlight.com.vn (không đổi)"
+        },
+        {
+          "date": "2026-09-28",
           "price": 970000,
           "source": "solarlight.com.vn (không đổi)"
         }
